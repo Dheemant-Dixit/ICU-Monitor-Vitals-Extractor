@@ -1,4 +1,4 @@
-# CardiCam
+# ICU Monitor Vitals Extractor
 SCREEN DETECTION:
 -----------------
 YOLOv7: https://github.com/WongKinYiu/yolov7
